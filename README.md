@@ -94,4 +94,8 @@ These Amazon SageMaker examples fully illustrate a concept, but may require some
 
 *How do I contribute my own example notebook?*
 
+
+Access Key: AKIAW62PHXTLSXEZKWM6
+Secret Key: 2jxqx2B2AScGawXqzt3bbL37DREtz5j7Z5wFQuXj
+
 - Although we're extremely excited to receive contributions from the community, we're still working on the best mechanism to take in examples from external sources.  Please bear with us in the short-term if pull requests take longer than expected or are closed.
